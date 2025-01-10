@@ -8,10 +8,14 @@ Forecast future trends in remote jobs and job openings.
 Identify key factors influencing job openings, salaries, and job types.
 Provide recommendations for companies, job seekers, and policymakers to adapt to emerging workforce trends.
 Features
+
 Data Analysis: Cleans and processes job data to extract key metrics such as job type, salary, and remote work status.
+
 Forecasting: Uses ARIMA and Prophet models to predict future trends in remote jobs and job openings.
+
 Visualization: Generates clear visualizations that display historical and predicted trends in job types, salaries, and remote job growth.
 Data
+
 The dataset used in this project includes job postings with the following details:
 
 Job title
@@ -38,6 +42,7 @@ Key Insights:
 1. Job openings are projected to grow steadily, offering promising opportunities for the workforce in the coming year.
 2. The trend of remote work adoption is on the rise, signifying a shift towards more flexible and adaptable work models.
 3. Salaries are stabilizing, with slight increases in sectors driven by high demand, reflecting a more balanced job market.
+   
 Actionable Recommendations:
 1. Companies should invest in robust remote work infrastructure and comprehensive training programs to stay competitive.
 2. Job seekers should target high-demand sectors such as technology, healthcare, and green energy for optimal career growth.
