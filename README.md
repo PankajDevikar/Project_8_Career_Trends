@@ -54,5 +54,8 @@ Output:
 ![forecasted_remote_work_trends_modified](https://github.com/user-attachments/assets/2acc5afd-3c5f-4183-a472-296f92fff32e)
 ![category_remote_trends_stacked_area](https://github.com/user-attachments/assets/3c9a71d6-acce-4df1-8118-dbcd2b597cbb)
 ![sentiment_distribution_modified](https://github.com/user-attachments/assets/992d91cb-da34-43c7-88f2-f31365a1010c)
+![Screenshot_10-1-2025_1358_localhost](https://github.com/user-attachments/assets/e3e4e163-5bdc-4736-9cd2-2cf9d9c02327)
+![Screenshot_10-1-2025_1364_localhost](https://github.com/user-attachments/assets/067045ae-056f-4568-b90b-46798ec514a9)
+![Screenshot_10-1-2025_13655_localhost](https://github.com/user-attachments/assets/4d5e3d43-664a-42f2-a7d2-73bf070566f3)
 
 
