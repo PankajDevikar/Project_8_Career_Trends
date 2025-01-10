@@ -51,7 +51,7 @@ Actionable Recommendations:
 Output:
 ![wordcloud](https://github.com/user-attachments/assets/99fda637-ab34-466b-92ae-dd0437afef38)
 ![remote_work_trends_modified](https://github.com/user-attachments/assets/1fc136dc-7df0-42d1-8446-012252c22cd9)
-![forecasted_remote_work_trends_with_shaded](https://github.com/user-attachments/assets/807bf10f-29d6-4a5e-a03a-d47496bb8d75)
+![forecasted_remote_work_trends_modified](https://github.com/user-attachments/assets/2acc5afd-3c5f-4183-a472-296f92fff32e)
 ![category_remote_trends_stacked_area](https://github.com/user-attachments/assets/3c9a71d6-acce-4df1-8118-dbcd2b597cbb)
 ![sentiment_distribution_modified](https://github.com/user-attachments/assets/992d91cb-da34-43c7-88f2-f31365a1010c)
 
